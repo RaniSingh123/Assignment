@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\hospitalopd.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:hospitalopd.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\hospitalopd.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:hospitalopd.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\dto\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:dto\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\controllers\\appoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:controllers\\appoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\helpers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:helpers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\working\\assignment\\hospitalopd.api\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:54:08.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:50:51.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:46:19.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HospitalOPD.Api",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\HospitalOPD.Api.csproj",
+              "RelativeDocumentMoniker": "HospitalOPD.Api.csproj",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\HospitalOPD.Api.csproj",
+              "RelativeToolTip": "HospitalOPD.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T17:53:06.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAMwCcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:24:55.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:33:09.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalDBContext.cs",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Data\\HospitalDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\HospitalDBContext.cs",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Data\\HospitalDBContext.cs",
+              "RelativeToolTip": "Data\\HospitalDBContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:39:52.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Appoint.cs",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Controllers\\Appoint.cs",
+              "RelativeDocumentMoniker": "Controllers\\Appoint.cs",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Controllers\\Appoint.cs",
+              "RelativeToolTip": "Controllers\\Appoint.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:55:01.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-07T18:59:25.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalOPD.Api.http",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\HospitalOPD.Api.http",
+              "RelativeDocumentMoniker": "HospitalOPD.Api.http",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\HospitalOPD.Api.http",
+              "RelativeToolTip": "HospitalOPD.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-07T17:52:41.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-07T18:58:59.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-07T18:34:01.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManagement.cs",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\DTO\\UserManagement.cs",
+              "RelativeDocumentMoniker": "DTO\\UserManagement.cs",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\DTO\\UserManagement.cs",
+              "RelativeToolTip": "DTO\\UserManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:14:21.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Helpers\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Helpers\\ApiResponse.cs",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Helpers\\ApiResponse.cs",
+              "RelativeToolTip": "Helpers\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:15:34.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:38:25.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:37:01.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Models\\Patients.cs",
+              "RelativeDocumentMoniker": "Models\\Patients.cs",
+              "ToolTip": "D:\\WORKING\\Assignment\\HospitalOPD.Api\\Models\\Patients.cs",
+              "RelativeToolTip": "Models\\Patients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:35:07.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
