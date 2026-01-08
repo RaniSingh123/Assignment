@@ -8,7 +8,8 @@
         public TimeSpan ConsultationStartTime { get; set; }
         public TimeSpan ConsultationEndTime { get; set; }
 
-        public ICollection<Appointment> Appointments { get; set; }
+       // public ICollection<Appointment> Appointments { get; set; }
+      
     }
 
 }

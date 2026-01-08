@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\hospitalopd.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:hospitalopd.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\controllers\\appoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:controllers\\appoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\dto\\appointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:dto\\appointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Migrations\\20260108055102_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260108055102_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\hospitalopd.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:hospitalopd.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\dto\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:dto\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|d:\\rani_lh\\new_learn\\assignment_rely\\assignment\\helpers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC91EE98-D6FC-D7B2-27A1-0F1222254E0D}|HospitalOPD.Api.csproj|solutionrelative:helpers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:54:08.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appoint.cs",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Controllers\\Appoint.cs",
+              "RelativeDocumentMoniker": "Controllers\\Appoint.cs",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Controllers\\Appoint.cs",
+              "RelativeToolTip": "Controllers\\Appoint.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:55:01.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:37:01.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-07T18:59:25.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Controllers\\PatientController.cs*",
+              "RelativeToolTip": "Controllers\\PatientController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:50:51.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Models\\Patients.cs",
+              "RelativeDocumentMoniker": "Models\\Patients.cs",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Models\\Patients.cs",
+              "RelativeToolTip": "Models\\Patients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:35:07.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-07T18:34:01.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HospitalOPD.Api.csproj",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\HospitalOPD.Api.csproj",
+              "RelativeDocumentMoniker": "HospitalOPD.Api.csproj",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\HospitalOPD.Api.csproj",
+              "RelativeToolTip": "HospitalOPD.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T17:53:06.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointDTO.cs",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\DTO\\AppointDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AppointDTO.cs",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\DTO\\AppointDTO.cs",
+              "RelativeToolTip": "DTO\\AppointDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:24:58.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:46:19.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:38:25.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HospitalDBContext.cs",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Data\\HospitalDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\HospitalDBContext.cs",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Data\\HospitalDBContext.cs",
+              "RelativeToolTip": "Data\\HospitalDBContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:39:52.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwC0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:24:55.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-07T18:58:59.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HospitalOPD.Api.http",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\HospitalOPD.Api.http",
+              "RelativeDocumentMoniker": "HospitalOPD.Api.http",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\HospitalOPD.Api.http",
+              "RelativeToolTip": "HospitalOPD.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-07T17:52:41.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:33:09.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260108055102_SecondMigration.cs",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Migrations\\20260108055102_SecondMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260108055102_SecondMigration.cs",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Migrations\\20260108055102_SecondMigration.cs",
+              "RelativeToolTip": "Migrations\\20260108055102_SecondMigration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:51:02.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserManagement.cs",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\DTO\\UserManagement.cs",
+              "RelativeDocumentMoniker": "DTO\\UserManagement.cs",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\DTO\\UserManagement.cs",
+              "RelativeToolTip": "DTO\\UserManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:14:21.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Helpers\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Helpers\\ApiResponse.cs",
+              "ToolTip": "D:\\Rani_LH\\New_Learn\\Assignment_Rely\\Assignment\\Helpers\\ApiResponse.cs",
+              "RelativeToolTip": "Helpers\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:15:34.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 ﻿using HospitalOPD.Api.Data;
+using HospitalOPD.Api.DTO;
 using HospitalOPD.Api.Helpers;
 using HospitalOPD.Api.Models;
 using Microsoft.AspNetCore.Authorization;
@@ -10,57 +11,56 @@ namespace HospitalOPD.Api.Controllers
     [ApiController]
     [Route("api/[controller]")]
     [Authorize]
-    public class Appoint : ControllerBase
+    public class AppointmentController : ControllerBase
     {
         private readonly HospitalDBContext _context;
 
-        public Appoint(HospitalDBContext context)
+        public AppointmentController(HospitalDBContext context)
         {
             _context = context;
         }
 
+        [Authorize]
         [HttpPost("book")]
-        public async Task<IActionResult> Book(Appointment appt)
+        public async Task<IActionResult> Book([FromBody] AppointDTO dto)
         {
-            var doctor = await _context.Doctors.FindAsync(appt.DoctorId);
-            if (doctor == null)
-                return BadRequest(new ApiResponse { Success = false, Msg = "Doctor not found" });
-
-            // Rule 1: within consultation time
-            if (appt.AppointmentTime < doctor.ConsultationStartTime ||
-                appt.AppointmentTime > doctor.ConsultationEndTime)
+            if (!TimeSpan.TryParse(dto.AppointmentTime, out TimeSpan time))
             {
                 return BadRequest(new ApiResponse
                 {
                     Success = false,
-                    Msg = "Appointment outside consultation time"
+                    Msg = "Invalid time format. Use HH:mm"
                 });
             }
 
-            // Rule 2: same doctor same time
-            if (await _context.Appointments.AnyAsync(a =>
-                a.DoctorId == appt.DoctorId &&
-                a.AppointmentDate.Date == appt.AppointmentDate.Date &&
-                a.AppointmentTime == appt.AppointmentTime))
+            var doctor = await _context.Doctors.FindAsync(dto.DoctorId);
+            if (doctor == null)
+                return BadRequest(new ApiResponse { Success = false, Msg = "Doctor not found" });
+
+            if (time < doctor.ConsultationStartTime || time > doctor.ConsultationEndTime)
+                return BadRequest(new ApiResponse { Success = false, Msg = "Outside consultation time" });
+
+            var appointment = new Appointment
             {
-                return BadRequest(new ApiResponse { Success = false, Msg = "Doctor already booked" });
-            }
+                PatientId = dto.PatientId,
+                DoctorId = dto.DoctorId,
+                AppointmentDate = dto.AppointmentDate,
+                AppointmentTime = time,   // ✅ TimeSpan assigned here
+                Status = dto.Status
+            };
 
-            // Rule 3: same patient same day
-            if (await _context.Appointments.AnyAsync(a =>
-                a.PatientId == appt.PatientId &&
-                a.AppointmentDate.Date == appt.AppointmentDate.Date))
-            {
-                return BadRequest(new ApiResponse { Success = false, Msg = "Patient already has appointment today" });
-            }
-
-            appt.Status = "Booked";
-
-            _context.Appointments.Add(appt);
+            _context.Appointments.Add(appointment);
             await _context.SaveChangesAsync();
 
-            return Ok(new ApiResponse { Success = true, Msg = "Appointment booked", Data = appt });
+            return Ok(new ApiResponse
+            {
+                Success = true,
+                Msg = "Appointment booked",
+                Data = appointment
+            });
         }
+
+
 
         [HttpGet("byDate")]
         public async Task<IActionResult> ByDate(DateTime date)
@@ -81,5 +81,7 @@ namespace HospitalOPD.Api.Controllers
 
             return Ok(new ApiResponse { Success = true, Msg = "Success", Data = list });
         }
+
+
     }
 }

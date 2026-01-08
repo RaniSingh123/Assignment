@@ -9,7 +9,7 @@
         public DateTime DOB { get; set; }
         public string MobileNo { get; set; } = string.Empty;
 
-        public ICollection<Appointment> Appointments { get; set; }  
+       // public ICollection<Appointment> Appointments { get; set; }
     }
 
 }

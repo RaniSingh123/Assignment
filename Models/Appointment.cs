@@ -8,10 +8,13 @@
 
         public DateTime AppointmentDate { get; set; }
         public TimeSpan AppointmentTime { get; set; }
-        public string Status { get; set; } = string.Empty;
+        public string Status { get; set; } = "Booked";
 
-        public Patient Patient { get; set; }    
-        public Doctor Doctor { get; set; }
-    }
+     //   public Patient Patient { get; set; }    
+      //  public Doctor Doctor { get; set; }
+
+
+
+}
 
 }
